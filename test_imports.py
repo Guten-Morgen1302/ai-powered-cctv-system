@@ -1,5 +1,10 @@
 #!/usr/bin/env python
-"""Quick import test"""
+"""
+Core module import validation test
+
+Ensures all critical modules for detection, voice alerts, and blockchain integration load correctly.
+Run before deployment to verify environment setup.
+"""
 try:
     from survilleance.Detector import Detector_2A2S
     print("OK: Detector imported")

@@ -1,3 +1,6 @@
+# SecureVista Hackathon Build v2.2.0
+# Core ML and Vision Dependencies for Real-time Surveillance System
+
 flask==2.3.3
 flask-cors==4.0.0
 opencv-python==4.8.0.76

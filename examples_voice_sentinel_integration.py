@@ -1,6 +1,14 @@
 """
 SecureVista Voice Sentinel — Integration Examples
 Demonstrates how to use Voice Sentinel in production scenarios
+
+## Usage Patterns
+- Direct Python module integration for internal alerts
+- HTTP endpoint integration for external systems
+- Twilio webhook integration for voice/SMS delivery
+- Async event processing with callbacks
+
+Run examples with: python examples_voice_sentinel_integration.py
 """
 
 # ============================================================================

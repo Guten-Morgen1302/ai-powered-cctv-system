@@ -1,5 +1,12 @@
 # SecureVista API Documentation
 
+> **Hackathon Build** - Complete REST API reference for SecureVista surveillance system
+
+## Base URLs
+- Main API: `http://localhost:5000`
+- Voice Alerts: `http://localhost:5003`
+- Blockchain Events: `http://localhost:5004`
+
 ## Endpoints
 
 ### Video & Stream

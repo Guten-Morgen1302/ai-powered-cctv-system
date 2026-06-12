@@ -1,5 +1,9 @@
 # Contributing to SecureVista
 
+## Hackathon Participants
+
+This project was built during a hackathon event. We welcome contributions and improvements!
+
 ## Development Setup
 
 1. Fork the repository

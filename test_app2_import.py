@@ -1,5 +1,10 @@
 #!/usr/bin/env python
-"""Quick test of app2.py imports"""
+"""
+Quick test of app2.py imports
+
+Validates Flask API module loads correctly and all dependencies are available.
+Run after `pip install -r requirements.txt` to verify setup.
+"""
 try:
     from app2 import app
     print("✓ app2.py imports successfully")

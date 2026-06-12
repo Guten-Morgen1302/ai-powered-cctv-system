@@ -1,3 +1,9 @@
+"""
+SecureVista Flask API Dashboard
+Provides HTTP endpoints for video streaming, analytics, and system management
+v2.2 - Enhanced surveillance dashboard and analytics
+"""
+
 from flask import Flask, Response, jsonify, request, render_template_string
 from flask_cors import CORS
 import cv2
@@ -8,7 +14,6 @@ from datetime import datetime, timedelta
 import os
 import numpy as np
 from dotenv import load_dotenv
-# v2.2 - Enhanced surveillance dashboard and analytics
 
 # Load environment variables early
 load_dotenv()

@@ -2,6 +2,8 @@
 
   <h1>🔐 SecureVista 🔐</h1>
   <h3><em>Redefining campus safety through smart, AI-powered surveillance.</em></h3>
+  
+  **Hackathon Build** - AI-CCTV Detection System with Real-time Analytics & Alerts
 
 </div>
 

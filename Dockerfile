@@ -1,5 +1,9 @@
 FROM python:3.10-slim
+
 # SecureVista Docker image - v2.2 optimized
+# Hackathon Build - Production-ready surveillance system container
+# Includes CUDA support, ML models, and real-time processing
+
 WORKDIR /app
 
 # Install system dependencies

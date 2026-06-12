@@ -3,6 +3,15 @@ SecureVista Surveillance System - FIXED VERSION
 Complete implementation with accurate person detection, tracking, pose estimation, 
 zone analytics, and real-time alerts system
 v2.1 - Enhanced stability and performance
+
+## Features
+- Real-time person detection using YOLOv8
+- Multi-object tracking with centroid algorithm
+- Pose estimation and posture classification
+- Zone-based analytics and line crossing detection
+- Integrated alert system with Twilio notifications
+- Blockchain event logging
+- Telegram bot integration
 """
 
 import cv2

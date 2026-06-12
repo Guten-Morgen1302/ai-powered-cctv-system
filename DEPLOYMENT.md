@@ -1,5 +1,13 @@
 # SecureVista Deployment Guide
 
+## Quick Start - Hackathon Build
+
+Deploy SecureVista in **5 minutes** with Docker:
+```bash
+docker build -t securevista .
+docker run -p 5000:5000 -p 5003:5003 securevista
+```
+
 ## Prerequisites
 - Python 3.9+
 - CUDA 11.8+ (for GPU acceleration)

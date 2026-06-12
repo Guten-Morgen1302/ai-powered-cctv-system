@@ -2,6 +2,13 @@
 """
 Voice Sentinel API Server (Standalone)
 Runs on port 5003 to serve voice alert scripts to Twilio
+
+## Endpoints
+- /twiml/alert - Generates TwiML responses for voice alerts
+- /voice/query - Processes voice queries and commands
+- /health - System health check
+
+Integration with Twilio webhook for real-time voice notifications.
 """
 
 from flask import Flask, jsonify, request
