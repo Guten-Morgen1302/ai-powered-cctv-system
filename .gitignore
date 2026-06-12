@@ -1,0 +1,11 @@
+﻿# Local environment and generated files
+.env
+*.db
+.DS_Store
+logs/
+output.txt
+app_output.txt
+error.txt
+*.log
+__pycache__/
+*.pyc
